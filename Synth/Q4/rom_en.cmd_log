@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q4/Synth/Q4/rom_en.xst" -ofn "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q4/Synth/Q4/rom_en.syr" 

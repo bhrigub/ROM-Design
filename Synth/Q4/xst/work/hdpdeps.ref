@@ -1,0 +1,7 @@
+V3 3
+FL "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q4/Src/rom.vhd" 2015/04/03.10:23:44 P.20131013
+EN work/rom_en 1428831647 \
+      FL "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q4/Src/rom.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/rom_en/arch_rom 1428831648 \
+      FL "E:/VHDL/Lab Work/150240133004 B/Lab 3 B/Q4/Src/rom.vhd" EN work/rom_en 1428831647

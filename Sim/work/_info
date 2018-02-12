@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q3\Sim
+Erom_en
+Z0 w1428037488
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\Users\Admin\Desktop\VHDL\Lab Work\150240133004\Lab 3 B\Q4\Sim
+Z6 8C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd
+Z7 FC:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd
+l0
+L5
+Vzof4gM<AL<BNaEo5ClPIO0
+Z8 OE;C;10.1d;51
+32
+Z9 !s108 1428822920.402000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd|
+Z11 !s107 C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd|
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+!s100 RSzOGdZXH^<HdBUjZAk8E2
+!i10b 1
+Aarch_rom
+R1
+R2
+R3
+R4
+DEx4 work 6 rom_en 0 22 zof4gM<AL<BNaEo5ClPIO0
+32
+l16
+L9
+VaD4=z=NO<b1caUboaf9ee1
+R8
+R9
+R10
+R11
+R12
+R13
+!s100 Z6GK?kjRYT<kg_H[@UiNI3
+!i10b 1

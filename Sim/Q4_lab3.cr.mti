@@ -1,0 +1,11 @@
+{C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd} {1 {vcom -work work -2002 -explicit -vopt {C:/Users/Admin/Desktop/VHDL/Lab Work/150240133004/Lab 3 B/Q4/Src/rom2_pract.vhd}
+QuestaSim vcom 10.1d Compiler 2012.11 Nov  1 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity rom_en
+-- Compiling architecture arch_rom of rom_en
+
+} {} {}}
